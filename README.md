@@ -4,6 +4,8 @@
 
 Repository: https://github.com/show-star/aa1
 
+📘 **Viva questions and easy explanations for all 6 practicals:** [VIVA.md](VIVA.md)
+
 ## Aim
 
 For a project named `student-management`: initialize a Git repository and set the username and email, create `index.html`, `style.css` and `app.js` and commit them, create a branch `feature-login` with a login form, switch back to `main` and change `app.js`, merge `feature-login` into `main`, then create a merge conflict on purpose, resolve it and show `git log --graph --oneline`.
